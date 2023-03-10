@@ -13,6 +13,7 @@ Spring Boot + Mybatis-Plus + Lombok + MySQL
 
 Clone to local, open with IDE(Intellij IDEA), pull dependencies, and start
 
+Before starting, please execute the command under /src/main/resources/english.sql
 
 Note that the configuration files are in src/main/java/com.abprogramming.config and src/main/resources/application.yml, Note the changes!
 
